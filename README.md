@@ -31,3 +31,9 @@ The project is all about designing and implementing the Vehicle Rental Managemen
    
 And there is a main method called Program.cs where all the functionalities of the classes have been displayed.
 
+SET UP INSTRUCTIONS
+
+1. Clone the repository
+2. Open the project in the Visual Studio
+3. Build the project
+4. Run the application (Execute Program.cs file)
