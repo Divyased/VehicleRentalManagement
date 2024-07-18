@@ -19,7 +19,7 @@ public class Vehicle
         Console.WriteLine("Model:" + " " + Model);
         Console.WriteLine("Manufacturer:" + " " + Manufacturer);
         Console.WriteLine("Year:" + " " + Year);
-        Console.WriteLine("Rental price:" + " " + RentalPrice +"$");
+        Console.WriteLine("Rental price:" + " " + "$" + RentalPrice);
 
     }
 }
