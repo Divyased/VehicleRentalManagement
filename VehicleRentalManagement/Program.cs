@@ -17,7 +17,6 @@ public class Program()
         agency.DisplayFleet();
 
         Console.WriteLine("\nRenting a vehicle:");
-        Console.WriteLine("\n");
         agency.RentVehicle(c1);
 
         Console.WriteLine("\nAfter renting fleet details are:");
